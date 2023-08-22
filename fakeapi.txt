@@ -1,0 +1,214 @@
+{
+    "dronlar": [
+      {
+        "marka": "DJI",
+        "model": "Phantom 4 Pro",
+        "urun_kodu": "DJIP4P001",
+        "fiyat": 181396,
+        "ozellikler": "4K kamera, 30 dakika uçuş süresi, 20MP sensör"
+      },
+      {
+        "marka": "DJI",
+        "model": "Mavic Air 2",
+        "urun_kodu": "DJIMA2",
+        "fiyat": 189518,
+        "ozellikler": "48MP kamera, 34 dakika uçuş süresi, 8K Hyperlapse"
+      },
+      {
+        "marka": "DJI",
+        "model": "Mini 2",
+        "urun_kodu": "DJIMINI2",
+        "fiyat": 162444,
+        "ozellikler": "4K kamera, 31 dakika uçuş süresi, OcuSync 2.0"
+      },
+      {
+        "marka": "DJI",
+        "model": "Inspire 2",
+        "urun_kodu": "DJIINSP2",
+        "fiyat": 175981,
+        "ozellikler": "5.2K kamera, 27 dakika uçuş süresi, Çift batarya sistemi"
+      },
+      {
+        "marka": "Parrot",
+        "model": "Anafi",
+        "urun_kodu": "PARANAFI001",
+        "fiyat": 10737,
+        "ozellikler": "4K HDR kamera, 25 dakika uçuş süresi, 180 derece dönebilen gimbal"
+      },
+      {
+        "marka": "Parrot",
+        "model": "Bebop 2",
+        "urun_kodu": "PARBEBOP2",
+        "fiyat": 11013,
+        "ozellikler": "1080p kamera, 25 dakika uçuş süresi, Hızlı ve çevik"
+      },
+      {
+        "marka": "Yuneec",
+        "model": "Typhoon H Pro",
+        "urun_kodu": "YUNTYHPR001",
+        "fiyat": 308644,
+        "ozellikler": "4K kamera, 25 dakika uçuş süresi, 360 derece dönebilen kamera"
+      },
+      {
+        "marka": "Yuneec",
+        "model": "Mantis Q",
+        "urun_kodu": "YUNMANTISQ",
+        "fiyat": 319474,
+        "ozellikler": "4K kamera, 33 dakika uçuş süresi, SES kontrollü"
+      },
+      {
+        "marka": "Autel Robotics",
+        "model": "EVO Lite",
+        "urun_kodu": "AUTELITE001",
+        "fiyat": 139431,
+        "ozellikler": "2.7K kamera, 30 dakika uçuş süresi, Kompakt tasarım"
+      },
+      {
+        "marka": "Autel Robotics",
+        "model": "EVO II Pro",
+        "urun_kodu": "AUTEEVO2P",
+        "fiyat": 148907,
+        "ozellikler": "6K kamera, 40 dakika uçuş süresi, Kolay taşınabilir"
+      },
+      {
+        "marka": "Skydio",
+        "model": "Skydio 2",
+        "urun_kodu": "SKYDIO2",
+        "fiyat": 319474,
+        "ozellikler": "4K kamera, 23 dakika uçuş süresi, 6 kamera ile engel algılama"
+      },
+      {
+        "marka": "Skydio",
+        "model": "Skydio X2",
+        "urun_kodu": "SKYDIOX2",
+        "fiyat": 297815,
+        "ozellikler": "5.2K kamera, 32 dakika uçuş süresi, Savunma ve güvenlik amaçlı"
+      },
+      {
+        "marka": "Autel Robotics",
+        "model": "EVO II Dual",
+        "urun_kodu": "AUTEEVO2D",
+        "fiyat": 185600,
+        "ozellikler": "Dual termal kameralar, 35 dakika uçuş süresi, İleri görüş sensörleri"
+      },
+      {
+        "marka": "Autel Robotics",
+        "model": "EVO II Enterprise",
+        "urun_kodu": "AUTEEVO2E",
+        "fiyat": 207200,
+        "ozellikler": "4K kamera, 40 dakika uçuş süresi, Termal ve IR kameralar"
+      },
+      {
+        "marka": "PowerVision",
+        "model": "PowerEgg X",
+        "urun_kodu": "POWEGGX001",
+        "fiyat": 159999,
+        "ozellikler": "4K kamera, 30 dakika uçuş süresi, Su üstünde uçabilme"
+      },
+      {
+        "marka": "PowerVision",
+        "model": "PowerEgg X Wizard",
+        "urun_kodu": "POWEGGXWIZ",
+        "fiyat": 179999,
+        "ozellikler": "4K kamera, 30 dakika uçuş süresi, Hava taşıma modu"
+      },
+      {
+        "marka": "Autel Robotics",
+        "model": "Dragonfish",
+        "urun_kodu": "AUTDRAGNFS",
+        "fiyat": 243556,
+        "ozellikler": "Makine görüşü destekli, 45 dakika uçuş süresi, Su geçirmez tasarım"
+      },
+      {
+        "marka": "Hubsan",
+        "model": "Zino Pro Plus",
+        "urun_kodu": "HUBZINOPP",
+        "fiyat": 58899,
+        "ozellikler": "8K kamera, 40 dakika uçuş süresi, Akıllı uçuş modları"
+      },
+      {
+        "marka": "Hubsan",
+        "model": "Zino Mini Pro",
+        "urun_kodu": "HUBZINOMIN",
+        "fiyat": 35999,
+        "ozellikler": "4K kamera, 30 dakika uçuş süresi, Katlanabilir tasarım"
+      },
+      {
+        "marka": "Eachine",
+        "model": "EX5",
+        "urun_kodu": "EACEX5001",
+        "fiyat": 14499,
+        "ozellikler": "4K kamera, 30 dakika uçuş süresi, Yüksek stabilite"
+      },
+      {
+        "marka": "Eachine",
+        "model": "E511S",
+        "urun_kodu": "EACE511S01",
+        "fiyat": 3999,
+        "ozellikler": "1080p kamera, 20 dakika uçuş süresi, GPS destekli"
+      },
+      {
+        "marka": "JJRC",
+        "model": "X16",
+        "urun_kodu": "JJRCX16001",
+        "fiyat": 5499,
+        "ozellikler": "6K kamera, 25 dakika uçuş süresi, Uzun menzil"
+      },
+      {
+        "marka": "JJRC",
+        "model": "X9PS",
+        "urun_kodu": "JJRCX9PS01",
+        "fiyat": 4999,
+        "ozellikler": "1080p kamera, 20 dakika uçuş süresi, GPS destekli"
+      },
+      {
+        "marka": "Holy Stone",
+        "model": "HS720E",
+        "urun_kodu": "HOLHS720E",
+        "fiyat": 6499,
+        "ozellikler": "4K kamera, 46 dakika uçuş süresi, Uzaktan kumandalı takip"
+      },
+      {
+        "marka": "Holy Stone",
+        "model": "HS165",
+        "urun_kodu": "HOLHS165",
+        "fiyat": 3999,
+        "ozellikler": "2K kamera, 15 dakika uçuş süresi, Katlanabilir tasarım"
+      },
+      {
+        "marka": "Potensic",
+        "model": "Dreamer Pro",
+        "urun_kodu": "POTDREAMPR",
+        "fiyat": 8999,
+        "ozellikler": "4K kamera, 31 dakika uçuş süresi, Termal kameralı"
+      },
+      {
+        "marka": "Potensic",
+        "model": "D68",
+        "urun_kodu": "POTD68001",
+        "fiyat": 3199,
+        "ozellikler": "1080p kamera, 20 dakika uçuş süresi, Uzaktan kumandalı takip"
+      },
+      {
+        "marka": "Xiaomi",
+        "model": "Fimi X8 SE 2022",
+        "urun_kodu": "XIAFIMISE",
+        "fiyat": 7999,
+        "ozellikler": "4K kamera, 35 dakika uçuş süresi, Uzun menzil"
+      },
+      {
+        "marka": "Xiaomi",
+        "model": "Fimi Mini",
+        "urun_kodu": "XIAFIMIMIN",
+        "fiyat": 3499,
+        "ozellikler": "2.7K kamera, 30 dakika uçuş süresi, Katlanabilir tasarım"
+      },
+      {
+        "marka": "XYZ Dron",
+        "model": "SuperFly 3000",
+        "urun_kodu": "XYZSF3000",
+        "fiyat": 2999,
+        "ozellikler": "1080p kamera, 25 dakika uçuş süresi, Hızlı ve çevik"
+      }
+    ]
+  }
